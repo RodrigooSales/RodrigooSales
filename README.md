@@ -2,7 +2,6 @@
 
 - 🔭 Sou um amante da tecnologia e busco me aprofundar nas areas de programação
 - 🌱 Hoje estudo Html, css e javascript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Baian0">
