@@ -1,7 +1,7 @@
 ### Hi there 👋, Eu me chamo Rodrigo Sales!
 
 - 🔭 Sou um amante da tecnologia e busco me aprofundar nas áreas de programação
-- 🌱 Hoje estudo Html, css e javascript
+- 🌱 Programador em formação pelo Instituto Federal do Ceará
 
 <div align="center">
   <a href="https://github.com/RodrigooSales">
