@@ -2,6 +2,7 @@
 
 - 🔭 Sou um amante da tecnologia e sempre busco me aprofundar mais nas áreas de programação
 - 🌱 Programador em formação pelo Instituto Federal do Ceará
+- 👨‍💻 Estagiário no Banco do Nordeste
 
 <div align="center">
   <a href="https://github.com/RodrigooSales">
@@ -15,7 +16,6 @@
  <!-- <img align="center" alt="Rod-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
