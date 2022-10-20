@@ -3,6 +3,8 @@
 - 🔭 Sou um amante da tecnologia e sempre busco me aprofundar mais nas áreas de programação
 - 🌱 Programador em formação pelo Instituto Federal do Ceará
 - 👨‍💻 Estagiário no Banco do Nordeste
+- 💻 Atualmente trabalhando com Java
+- 📚 Estudando Docker, Kubernets e C!
 
 <div align="center">
   <a href="https://github.com/RodrigooSales">
@@ -13,10 +15,16 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rod-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <!-- <img align="center" alt="Rod-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
- <!-- <img align="center" alt="Rod-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <hr>
+  <p>
+  Estudando agora:
+  <img align="center" alt="Rod-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Rod-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Rod-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  </p>
 </div>
 
 ##
