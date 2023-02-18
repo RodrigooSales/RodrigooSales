@@ -1,10 +1,10 @@
 ### Hi there 👋, Eu me chamo Rodrigo Sales!
 
-- 🔭 Sou um amante da tecnologia e sempre busco me aprofundar mais nas áreas de programação
-- 🌱 Programador em formação pelo Instituto Federal do Ceará
-- 👨‍💻 Estagiário no Banco do Nordeste
-- 💻 Atualmente trabalhando com Java
-- 📚 Estudando Docker, Kubernets e C!
+- 🔭 Sou um amante da tecnologia e sempre busco me aprofundar mais nas áreas de programação.
+- 🌱 Programador com conhecimentos em Back-end e DevOps (Jr)
+- 👨‍💻 Estagiário no Banco do Nordeste e EStudando na Universidade de Fortaleza.
+- 💻 Atualmente trabalhando com DevOps
+- 📚 Estudando Docker e Kubernets!
 
 <div align="center">
   <a href="https://github.com/RodrigooSales">
@@ -23,7 +23,6 @@
   Estudando agora:
   <img align="center" alt="Rod-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Rod-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Rod-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </p>
 </div>
 
@@ -32,7 +31,7 @@
     
   <a href="https://instagram.com/rodrigo_saless23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:teixeirarodrigo2311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/teixeira-rodrigo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/teixeira-rodrigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     ![Snake animation](https://github.com/RodrigooSales/RodrigooSales/blob/output/github-contribution-grid-snake.svg)
   </div>
   
