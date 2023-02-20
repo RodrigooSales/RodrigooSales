@@ -2,7 +2,7 @@
 
 - 🔭 Sou um amante da tecnologia e sempre busco me aprofundar mais nas áreas de programação.
 - 🌱 Programador com conhecimentos em Back-end e DevOps (Jr)
-- 👨‍💻 Estagiário no Banco do Nordeste e EStudando na Universidade de Fortaleza.
+- 👨‍💻 Estagiário no Banco do Nordeste e Estudando na Universidade de Fortaleza.
 - 💻 Atualmente trabalhando com DevOps
 - 📚 Estudando Docker e Kubernets!
 
