@@ -1,8 +1,8 @@
 ### Hi there 👋, Eu me chamo Rodrigo Sales!
 
 - 🔭 Sou um amante da tecnologia e sempre busco me aprofundar mais nas áreas de programação.
-- 🌱 Engenheiro DevOps(junior)
-- 👨‍💻 Estagiário em DevOps no Banco do Nordeste e Estudando na Universidade de Fortaleza.
+- 🌱 Engenheiro DevOps
+- 👨‍💻 DevOps pela Sonda S.A alocado no Banco do Nordeste e Estudando na Universidade de Fortaleza.
 
 <div align="center">
   <a href="https://github.com/RodrigooSales">
